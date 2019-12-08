@@ -1,0 +1,6 @@
+C:\Users\Vadym\source\repos\TreeLibrary\TreeLibrary\bin\Release\TreeLibrary.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeLibrary\bin\Release\TreeLibrary.pdb
+C:\Users\Vadym\source\repos\TreeLibrary\TreeLibrary\obj\Release\TreeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\source\repos\TreeLibrary\TreeLibrary\obj\Release\TreeLibrary.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeLibrary\obj\Release\TreeLibrary.pdb
+C:\Users\Vadym\source\repos\TreeLibrary\TreeLibrary\obj\Release\TreeLibrary.csprojAssemblyReference.cache

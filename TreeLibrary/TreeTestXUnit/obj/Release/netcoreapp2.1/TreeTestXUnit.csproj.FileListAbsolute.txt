@@ -1,0 +1,17 @@
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeTestXUnit.deps.json
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeTestXUnit.runtimeconfig.json
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeTestXUnit.runtimeconfig.dev.json
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeTestXUnit.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeTestXUnit.pdb
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeLibrary.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\bin\Release\netcoreapp2.1\TreeLibrary.pdb
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.csprojAssemblyReference.cache
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.AssemblyInfoInputs.cache
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.AssemblyInfo.cs
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.csproj.CopyComplete
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.dll
+C:\Users\Vadym\source\repos\TreeLibrary\TreeTestXUnit\obj\Release\netcoreapp2.1\TreeTestXUnit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vadym\source\repos\RangeArray\RangeArray\bin\Release\RangeArray.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArray\bin\Release\RangeArray.pdb
+C:\Users\Vadym\source\repos\RangeArray\RangeArray\obj\Release\RangeArray.csprojAssemblyReference.cache
+C:\Users\Vadym\source\repos\RangeArray\RangeArray\obj\Release\RangeArray.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\source\repos\RangeArray\RangeArray\obj\Release\RangeArray.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArray\obj\Release\RangeArray.pdb

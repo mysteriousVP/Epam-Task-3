@@ -1,0 +1,17 @@
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArrayTestXUnit.deps.json
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArrayTestXUnit.runtimeconfig.json
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArrayTestXUnit.runtimeconfig.dev.json
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArrayTestXUnit.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArrayTestXUnit.pdb
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArray.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\bin\Release\netcoreapp2.1\RangeArray.pdb
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.csprojAssemblyReference.cache
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.AssemblyInfoInputs.cache
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.AssemblyInfo.cs
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.csproj.CopyComplete
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.dll
+C:\Users\Vadym\source\repos\RangeArray\RangeArrayTestXUnit\obj\Release\netcoreapp2.1\RangeArrayTestXUnit.pdb
